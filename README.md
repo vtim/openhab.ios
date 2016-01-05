@@ -1,3 +1,5 @@
+![Travis CI build status](https://travis-ci.org/vtim/openhab.ios.svg?branch=travis)
+
 ## Introduction
 
 openHAB iOS application is a native client for openHAB. It uses REST API of openHAB to render
